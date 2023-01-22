@@ -1,3 +1,3 @@
-### Hello
+### Hi there <span> 🔥 </span>
 
-Hi, I am Irina from Moscow. Passionate about numbers, code and visual design. Learning technologies that I found interesting.
+I'm Irina, a Product Analyst with Marketing and Design background, passionate about numbers and like to write code. Quite interested in Machine learning. 
